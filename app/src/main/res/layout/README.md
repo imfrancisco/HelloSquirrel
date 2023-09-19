@@ -30,16 +30,11 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://i.imgur.com/7pK0D5c.mp4.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://i.imgur.com/7pK0D5c.mp4' title='Video Demo' width='' alt='Video Demo' />
 
 
 
-GIF created with **your chosen GIF tool**
-
-<!-- Recommended tools:
-- [Kap](https://getkap.co/) for macOS
-- [ScreenToGif](https://www.screentogif.com/) for Windows
-- [peek](https://github.com/phw/peek) for Linux. -->
+GIF created with KAP
 
 ## Notes
 
